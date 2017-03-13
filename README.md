@@ -7,5 +7,5 @@
 5. Right click on properties of project go to java build path Make sure your build path is configured to include JDK 1.8
 
 ## Deployment
-After Configuring Just Right Click run As > run on server. Choose the server you installed and ther program will run
+After Configuring Just Right Click run As > run on server. Choose the server you installed and the program will run
    
